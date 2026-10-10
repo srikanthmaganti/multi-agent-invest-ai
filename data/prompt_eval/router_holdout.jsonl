@@ -1,0 +1,2 @@
+{"case_id":"router-holdout-01","inputs":{"query_text":"What is the difference between saving cash in an ISA and investing through one?"},"outputs":{"intent":"INVESTMENT_GUIDANCE"},"expectations":{"reason":"The question is primarily about ISA types and investing."}}
+{"case_id":"router-holdout-02","inputs":{"query_text":"What are some easy vegetarian lunches for work?"},"outputs":{"intent":"GENERAL_INQUIRY"},"expectations":{"reason":"The request is not about the supported financial topics."}}

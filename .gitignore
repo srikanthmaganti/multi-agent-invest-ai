@@ -1,0 +1,12 @@
+.env
+.invest_ai/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+data/rag_sources/*.pdf
+data/qdrant/
+mlflow.db
+mlruns/
+mlartifacts/
